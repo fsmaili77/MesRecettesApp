@@ -1,4 +1,4 @@
-# MesRecettes
+# MesRecettes (Approche Code-First)
 
 MesRecettes est une application web ASP.NET Core (C#) permettant de gérer et consulter des recettes de cuisine, avec gestion des ingrédients, des unités de mesure, des origines et des types d'aliments. L'application utilise Entity Framework Core avec SQL Server pour la persistance des données et l'authentification basée sur ASP.NET Identity.
 
